@@ -1,0 +1,6 @@
+[submodule "qcom/camera"]
+	path = qcom/camera
+	url = https://android.googlesource.com/kernel/msm-extra/camera-devicetree
+[submodule "qcom/display"]
+	path = qcom/display
+	url = https://android.googlesource.com/kernel/msm-extra/display-devicetree
